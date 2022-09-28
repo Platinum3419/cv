@@ -1,0 +1,15 @@
+body {background-color: #FFD8A9;}
+
+hr {border-style: none;
+    border-top-style: dotted;
+    width: 3%;
+    border-width: thick;
+    color: #F1A661;
+   }
+h1 {color: #E38B29;
+text-decoration-line: underline;
+text-decoration-thickness: 5px;
+}
+h3 {color: #E38B29;
+text-decoration-line: underline;
+}
